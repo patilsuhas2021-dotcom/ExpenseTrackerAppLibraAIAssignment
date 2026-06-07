@@ -2,7 +2,8 @@
 
 Expense Tracker is a production-ready, full-stack Expense Tracker application designed to help users log daily financial transactions, filter and query history, and gain spending insights through an interactive dashboard with light/dark theme persistence.
 
-![Dashboard Preview](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80)
+### Screenshots of ExpenseTracker
+<img width="940" height="434" alt="image" src="https://github.com/user-attachments/assets/1f4ed949-12df-401d-95b8-0dbb79c28a47" />
 
 ---
 
