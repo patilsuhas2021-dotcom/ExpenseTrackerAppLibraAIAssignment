@@ -2,9 +2,6 @@
 
 Expense Tracker is a production-ready, full-stack Expense Tracker application designed to help users log daily financial transactions, filter and query history, and gain spending insights through an interactive dashboard with light/dark theme persistence.
 
-### Screenshots of ExpenseTracker
-<img width="940" height="434" alt="image" src="https://github.com/user-attachments/assets/1f4ed949-12df-401d-95b8-0dbb79c28a47" />
-
 ---
 
 ## Key Features
@@ -211,3 +208,61 @@ All routes expect header: `Authorization: Bearer <JWT_TOKEN>` for protected rout
    - `MONGODB_URI` (your production MongoDB Atlas URL)
    - `JWT_SECRET` (a strong production random secret)
    - `CLIENT_URL` (the Vercel frontend URL, e.g., `https://Expense Tracker-tracker.vercel.app`)
+
+---
+
+### Screenshots of ExpenseTracker
+
+#### 1. LOGIN PAGE (BONUS)
+<img width="940" height="434" alt="image" src="https://github.com/user-attachments/assets/1f4ed949-12df-401d-95b8-0dbb79c28a47" />
+
+#### 2. REGISTRATION PAGE (BONUS)
+<img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/f191ce9d-c03e-4049-b7b3-26b17ee01be2" />
+<img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/9d119885-6f9b-467d-8cce-3fbc7f824876" />
+
+#### 3. DASHBOARD OVERVIEW
+<img width="940" height="490" alt="image" src="https://github.com/user-attachments/assets/3d65bd1f-11d6-45d2-89cb-7773d85c2d05" />
+<img width="940" height="461" alt="image" src="https://github.com/user-attachments/assets/a1099ebd-ef9d-488b-99eb-a7d2edafeb85" />
+
+#### 4. ADD NEW EXPENSE
+<img width="520" height="526" alt="image" src="https://github.com/user-attachments/assets/80e37423-eaa9-49bb-afc0-3f62f6b483f8" />
+<img width="940" height="502" alt="image" src="https://github.com/user-attachments/assets/114e9535-54cd-4401-8870-b5c7512f14c2" />
+<img width="940" height="370" alt="image" src="https://github.com/user-attachments/assets/a7423c06-5e8e-46c8-82b1-fa2eb78ae1e2" />
+
+#### 5. EDIT EXPENSE
+<img width="622" height="623" alt="image" src="https://github.com/user-attachments/assets/3e1caf4c-41db-48bf-9005-5b6d70b2c42b" />
+
+#### 6. DELETE EXPENSE
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/7d7a6451-2af3-4d8a-89c1-693cd70a597b" />
+
+#### 7. VIEW EXPENSE HISTORY
+<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/bb48bf61-0bc3-4bf8-afa8-6776be3f6b0b" />
+<img width="940" height="484" alt="image" src="https://github.com/user-attachments/assets/0c24a67a-2279-4c48-8d33-0bd85e246d58" />
+
+#### 8. FORM VALIDATIONS
+<img width="654" height="728" alt="image" src="https://github.com/user-attachments/assets/37290c9a-4b3d-4ee8-b2a4-1c6776a032f2" />
+<img width="650" height="817" alt="image" src="https://github.com/user-attachments/assets/92550672-8de3-4764-92e7-0607e7707912" />
+
+#### 9. SEARCH AND FILTER FEATURES:
+➔	SEARCH BY TITLE
+<img width="940" height="368" alt="image" src="https://github.com/user-attachments/assets/1704d0c3-b772-4f73-a46b-2314da1e08f2" />
+➔	SEARCH BY CATEGORY
+<img width="940" height="365" alt="image" src="https://github.com/user-attachments/assets/570b29ec-ac14-4689-b387-b77f63ee2e9a" />
+➔	SEARCH BY ALL CATEGORIES
+<img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/330a058b-afd3-4b63-b2db-b525ee354e82" />
+
+#### 10. PAGINATION
+<img width="940" height="253" alt="image" src="https://github.com/user-attachments/assets/f5654ef1-0e5e-465a-8e12-a5348680e61e" />
+
+#### 11. BONUS FEATURES
+•	Authentication (JWT Login/Register)
+<img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/b4961a64-f0c4-431e-bc0a-51bd93deed19" />
+
+•	Expense Chart: Pie Chart (Category-wise Expenses)
+<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/d39a2603-b8e2-45bf-ae80-07c1df65cba7" />
+
+•	Dark Mode
+<img width="940" height="245" alt="image" src="https://github.com/user-attachments/assets/8d30e79b-02e8-4c97-a140-26f1b487494e" />
+
+•	Light Mode
+<img width="940" height="272" alt="image" src="https://github.com/user-attachments/assets/f5a37f54-7341-4b09-b791-d28c0a586be9" />
