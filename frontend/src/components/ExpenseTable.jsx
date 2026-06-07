@@ -52,7 +52,7 @@ const ExpenseTable = ({
         <div className="flex justify-between items-center">
           <div>
             <h3 className="font-outfit text-base font-bold text-slate-900 dark:text-white">
-              Expense Transactions
+             Recent Transactions
             </h3>
             <p className="text-xs text-slate-400 dark:text-slate-500">
               Manage, search, and filter your logged expenses

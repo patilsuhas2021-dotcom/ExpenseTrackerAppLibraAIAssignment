@@ -35,7 +35,7 @@ const ExpenseSchema = new mongoose.Schema({
   paymentMethod: {
     type: String,
     required: [true, 'Please add a payment method'],
-    enum: ['Cash', 'Credit Card', 'Debit Card', 'Bank Transfer', 'UPI', 'Other']
+    enum: ['Cash', 'Credit Card', 'Debit Card', 'Bank Transfer', 'UPI', 'Others']
   },
   notes: {
     type: String,

@@ -218,7 +218,7 @@ const Register = () => {
 
       {/* Footer */}
       <footer className="py-6 text-center text-xs text-slate-400 dark:text-slate-500">
-        &copy; {new Date().getFullYear()} SpendWise. All rights reserved.
+        &copy; {new Date().getFullYear()} ExpenseTracker. All rights reserved.
       </footer>
     </div>
   );

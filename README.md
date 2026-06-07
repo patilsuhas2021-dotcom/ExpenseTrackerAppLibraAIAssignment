@@ -1,6 +1,6 @@
-# SpendWise — Premium Full-Stack Expense Tracker
+# Expense Tracker — Premium Full-Stack Expense Tracker
 
-SpendWise is a production-ready, full-stack Expense Tracker application designed to help users log daily financial transactions, filter and query history, and gain spending insights through an interactive dashboard with light/dark theme persistence.
+Expense Tracker is a production-ready, full-stack Expense Tracker application designed to help users log daily financial transactions, filter and query history, and gain spending insights through an interactive dashboard with light/dark theme persistence.
 
 ![Dashboard Preview](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=1200&q=80)
 
@@ -51,7 +51,7 @@ SpendWise is a production-ready, full-stack Expense Tracker application designed
 ## Directory Structure
 
 ```
-SpendWise/
+Expense Tracker/
  ├── server/             # Express.js Backend
  │    ├── config/        # Mongoose Database configuration
  │    ├── models/        # User and Expense MongoDB Mongoose models
@@ -209,4 +209,4 @@ All routes expect header: `Authorization: Bearer <JWT_TOKEN>` for protected rout
    - `PORT=5000` (Render binds port automatically)
    - `MONGODB_URI` (your production MongoDB Atlas URL)
    - `JWT_SECRET` (a strong production random secret)
-   - `CLIENT_URL` (the Vercel frontend URL, e.g., `https://spendwise-tracker.vercel.app`)
+   - `CLIENT_URL` (the Vercel frontend URL, e.g., `https://Expense Tracker-tracker.vercel.app`)

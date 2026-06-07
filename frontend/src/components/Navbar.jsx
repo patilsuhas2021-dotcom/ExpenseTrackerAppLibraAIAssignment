@@ -17,7 +17,7 @@ const Navbar = () => {
               <TrendingUp size={20} />
             </div>
             <span className="font-outfit text-lg font-bold tracking-tight text-slate-900 dark:text-white">
-              SpendWise
+              ExpenseTracker
             </span>
           </div>
 

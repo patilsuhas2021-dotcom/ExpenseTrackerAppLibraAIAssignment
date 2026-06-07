@@ -162,7 +162,7 @@ const Login = () => {
 
       {/* Footer */}
       <footer className="py-6 text-center text-xs text-slate-400 dark:text-slate-500">
-        &copy; {new Date().getFullYear()} SpendWise. All rights reserved. Demo user: <code className="bg-slate-200 dark:bg-slate-800 px-1 py-0.5 rounded font-mono">demo@example.com / password123</code>
+        &copy; {new Date().getFullYear()} ExpenseTracker. All rights reserved. Demo user: <code className="bg-slate-200 dark:bg-slate-800 px-1 py-0.5 rounded font-mono">demo@example.com / password123</code>
       </footer>
     </div>
   );
